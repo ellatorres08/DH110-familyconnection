@@ -5,7 +5,8 @@
 ### Assignment 1 : Heuristic Evaluation
 
 ## App 1: MyHeritage
-![MyHeritage homepage](timeslips-screenshot.png)
+![MyHeritage homepage](myheritage website.png)
+![MyHeritage app](myheritageapp.png)
 View the full site here: [MyHeritage](https://www.myheritage.com)
 #### Background Information
 MyHeritage is a genealogy and family history platform that offers an app for mobile devices. The MyHeritage app is available for both iOS and Android devices and provides users with easy access to their family trees, as well as a variety of tools for researching and discovering their ancestors. Some of the key features of the MyHeritage app include family tree management, DNA testing, record matching, photo enhancements, and research tools. Overall, the MyHeritage app is a powerful tool for anyone interested in discovering their family history and building a comprehensive family tree.
@@ -27,7 +28,8 @@ _Overall Evaluation_: Overall, in evaluating the MyHeritage app, I identified se
 | **9\. Help users recognize, diagnose, and recover from errors**<br>The app should provide users with helpful and clear error messages, and offer solutions and guidance to recover from errors or mistakes.                     | The app provides helpful error messages and instructions on how to recover from errors, such as when a user tries to upload an unsupported file format, helping users troubleshoot issues or if the user uploads any information with inconsistencies to records on file.                                                                                                                                                                                       | No suggestions                                                | 1                        |
 | **10\. Help and documentation**<br>The app should provide clear and comprehensive help documentation, with contextual help and links to additional resources, to assist users in using the app effectively.                                                                    | The app offers a comprehensive help center with FAQs, tutorials, and support articles, as well as a customer support team that users can contact for assistance                                                                                                                                                                | No suggestions| 1                         |
 ## App 2: FamilySearch
-![FamilySearch homepage](timeslips-screenshot.png)
+![FamilySearch homepage](familysearch website.png)
+![FamilySearch app](famsearchapp.jpeg)
 View the full site here: [FamilySearch](https://www.familysearch.org)
 #### Background Information
 FamilySearch is a genealogy and family history platform that offers an app for mobile devices. The FamilySearch app is available for both iOS and Android devices and provides users with a range of tools and resources for researching and discovering their ancestors.
