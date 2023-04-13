@@ -1,6 +1,6 @@
 # DH110-Spring 2023
 ### Ella Torres
-## Facilitating Family Connections Through Geneology Technology
+## Facilitating Family Connections Through Genealogy Technology
 #### Project Description: By performing an analysis of user experience design of family tree apps such as MyHeritage and FamilySearch, I aim to help make fostering family connections through family history even more straightforward and convenient.
 ### Assignment 1 : Heuristic Evaluation
 
