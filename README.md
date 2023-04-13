@@ -1,7 +1,7 @@
 # DH110-Spring 2023
 ### Ella Torres
 ## Facilitating Family Connections Through Genealogy Technology
-#### Project Description: By performing an analysis of user experience design of family tree apps such as MyHeritage and FamilySearch, I aim to help make fostering family connections through family history even more straightforward and convenient.
+#### Project Description: This project aims to enhance the user experience design of family tree apps like MyHeritage and FamilySearch to facilitate easy and convenient connections between family members through family history. Through an analysis of these apps, the project seeks to identify areas where improvements can be made to streamline the process of building and maintaining family trees, ultimately promoting stronger family bonds.
 ### Assignment 1 : Heuristic Evaluation
 
 ## App 1: MyHeritage
