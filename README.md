@@ -76,8 +76,9 @@ This particular UT is a pilot test in order to test the setting and materials (a
 The process of UT involves the participant to follow along with the provided questionnaire which contains sections of background questions for previous experience with the app, pretest questions for the participants initial impressions of the app, three tasks with checklists to note if the participant could complete each part of each task, as well as post test questions to evaluate the participants sentiments towards each task and the app as a whole. By following along with the questionnaire, the participant helps measure the severity of the problems that the heuristic evaluation outlined and how we might be able to amend these issues. Specifically for this UT, the participant is able to outline what in the FamilySearch app was most confusing or difficult to use.
 
 
-View the online survey here: [UT Survey](https://docs.google.com/forms/d/e/1FAIpQLSfalarqFEctNtBuHsywIdyrsgSO8AOFOrOSeUICsgc5XggjQA/viewform?usp=sf_link)
-View the UT Video here: [UT Recording] (
+View the online survey here: [UT Survey](https://docs.google.com/forms/d/e/1FAIpQLSfalarqFEctNtBuHsywIdyrsgSO8AOFOrOSeUICsgc5XggjQA/viewform?usp=share_link)
+
+View the UT Video here: [UT Recording](https://drive.google.com/file/d/16r8CGTZbmXOju9hRXsd1G9jQwc3heNGH/view?usp=share_link)
 
 #### UT Reflection
 
