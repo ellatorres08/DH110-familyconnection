@@ -56,7 +56,7 @@ _Overall Evaluation_: Overall, the FamilySearch app has several strengths and li
 UT stands for User Testing, and it is a method of evaluating a product or service by directly observing and gathering feedback from its users. The purpose of UT is to identify any usability issues, design flaws, or other problems in order to improve the app from a user's perspective.
 This particular UT is a pilot test in order to test the setting and materials (app and test survey with tasks). It takes place in the participant’s home via a portable minimalistic lab which usually consists of their laptop or smartphone device and a video calling app with screen share functionality (i.e. Zoom). To conduct a UT, the first step is to define the objectives and the goals of the test. These goals are aligned with the findings of the heuristic evaluation that can be found in assignment 1. The heuristic evaluation identified potential problems in the following heuristic sections:
 
-<u>Visibility of system status:</u> The pending tasks section is limited by not having clear sections on types of tasks.
+<i>Visibility of system status:</i> The pending tasks section is limited by not having clear sections on types of tasks.
 Match between system and the real world: people who are new to genealogy might still have trouble understanding the words used.
 
 User control and freedom: Users may accidentally delete or modify data in their family tree and not be able to recover it due to limitations in the app's undo and redo functionality.
