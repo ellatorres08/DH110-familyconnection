@@ -87,4 +87,57 @@ Reflecting on this UT, I was able to learn many ways in which the organization o
 In the future, UT for this app may be improved by having the participant come better prepared with a bit more information on their family history. Given some time to find more accurate information on their grandparents may better measure the usability of the app's features. Additionally, since this particular project centers around facilitating family connection, it may prove worthwhile to conduct UT with two family members as participants that might help each other with the input of family information in order to measure usability issues in the future and evaluate how it might connect the two participants as they work together.
 
 
+### Assignment 3 : User Research
+
+## Introductory Steps
+
+### :white_check_mark: Step 1: Specify the Project Design Challenge
+
+**What is the main activity your project would support the users in accomplishing?**
+>This project will support users in being able to facilitate a stronger family connection by looking deeper into their genealogy. Users will be able to construct their family trees and hopefully find relevant records and documents associated with their ancestors that could promote conversations with family members.
+
+**What is the basic need involved for that activity?**
+>This activity fulfills the user’s basic need for connection and understanding of one’s self and where they come from.
+
+**What is/are the traditional/current solution(s) to satisfy the needs?**
+>Current solutions to satisfy this need involve heavy research whether it be reaching out to family members that are currently alive for information or seeking out records online or in libraries. 
+
+**What is/are the limitation(s) that possibly would be improved with (digital) technology?**
+>Certain limitations that would be improved with genealogy technology are not knowing where to look for your family records or not being able to remember names from your family tree that might be found automatically on a genealogy site.
+
+### :white_check_mark: Step 2: Identify Target Users
+
+**What are the characteristics of users? (ex. demographics, preference, expertise)**
+
+>Demographic: People with basic knowledge of their immediate family members information who are curious to learn more about their ancestors and where they come from.
+
+>Preferences: users have the ability to identify basic information about their family members and navigate an application on a smartphone.
+
+>Expertise: users do not need any particular level of expertise to use this application.
+
+**Where would the users perform the activity?**
+>Activities using the FamilySearch app can be performed anywhere, however users may want to have access to contacting family members to help gather initial information for their family tree when first starting out. After user input information is gathered, the user can add family members and search through historical records anywhere and anytime.
+
+**What would the users do to complete that activity?**
+>To add family members to their tree, users simply need to press on the addition symbol where that specific ancestor would be. For example, to add your maternal grandmother, you would press the addition symbol above your mothers box on the tree where her mother is indicated. To search records on your ancestors, users simply navigate to the search section and input any information gathered on that ancestor to narrow down related documents. The app can also automatically find information as you enter in new family members to your tree.
+
+### :white_check_mark: Step 3: Pick Research Method(s)
+
+* The research method I employed was **participatory observation**.
+
+* I conducted **participatory observation research** with a friend who fits my target demographic details by performing several activities to further explore their family tree and history.
+
+## Participatory Research Materials
+
+**1. Contextual Inquiry Guide**
+
+Please find my **script** for this interview [here](https://docs.google.com/document/d/11uJES14B16mDF33C-ZY2wpWcxDKgEvk9O8tRx1x_l74/edit?usp=sharing)
+
+**2. User Data**
+
+Please find the **recordings** of the interview [here](https://drive.google.com/drive/folders/1Ub4xKbsHrsR0_yWUqlKXsJ_zRbSdJykR?usp=share_link).
+
+The **transcription** of the interview can be found [here](https://docs.google.com/document/d/15zprNvrbRN_br-SHwHDfwQ-Y_gXyyT9G4zBttaxFtSw/edit?usp=sharing).
+
+### Here are some interesting quotes and insights from the interview:
 
