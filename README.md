@@ -152,9 +152,9 @@ The **transcription** of the interview can be found [here](https://docs.google.c
 (Part 2 (17:25))
 Like I think it (The family history activities section) was really cool. The culture tabs they had and the things on like society and stuff. But those were things I already knew. It's very surface level. It's like things you will experience in the culture. I guess it's good if you don't have like any exposure, I guess, to your culture. It could be a good start, but definitely not somewhere to finish looking.
 
-**:four: The user reflects on the impact of their age on finding family history information(Part 2 (21:47))**
+**:four: The user reflects on the impact of their age on finding family history information (Part 2 (21:47))**
 >That's such an interesting question. I don't think I think yes and no. Yes, it is a barrier because I don't know the information. I wasn't alive for it or I wasn't old enough for it to be in my circle of little kids stories. But no, in the sense that I can find things around the app very well that I can find the places to search for records and where these activities are fairly quickly. Because I am I've grown up with technology and I'm used to it by this point.
 
-**:five: The user discuss their connection to the topic of family history(Part 2 (23:14))**
+**:five: The user discusses their connection to the topic of family history (Part 2 (23:14))**
 >I feel very connected to this topic. And I think it's a really interesting thing to research and look into However, having in an app, that tool like forming bases is to like, build your own little family tree and have all this information in one place. Although it seems nice it seems just kind of superficial. I feel like the best place you're always gonna get that kind of information is from source.
 
