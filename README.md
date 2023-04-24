@@ -2,9 +2,9 @@
 ### Ella Torres
 ## Facilitating Family Connections Through Genealogy Technology
 #### Project Description: This project aims to enhance the user experience design of family tree apps like MyHeritage and FamilySearch to facilitate easy and convenient connections between family members through family history. Through an analysis of these apps, the project seeks to identify areas where improvements can be made to streamline the process of building and maintaining family trees, ultimately promoting stronger family bonds.
-### Assignment 1 : Heuristic Evaluation
+## Assignment 1 : Heuristic Evaluation
 
-## App 1: MyHeritage
+### App 1: MyHeritage
 ![MyHeritage app](myheritageapp.png)
 View the full site here: [MyHeritage](https://www.myheritage.com)
 #### Background Information
@@ -26,7 +26,7 @@ _Overall Evaluation_: Overall, in evaluating the MyHeritage app, I identified se
 | **8\. Aesthetic and minimalist design**<br>The app should present information and functionality in a clear, visually appealing and uncluttered way.                                  | The app uses a clean and minimalist design, with a focus on the family tree view and the user's content, rather than distracting graphics or animations, making it easy for users to focus on the information they need. Some users may find the app's design to be too simple or bland, leading to a lack of engagement.                                                                                                                          |No Suggestions     | 1                         |
 | **9\. Help users recognize, diagnose, and recover from errors**<br>The app should provide users with helpful and clear error messages, and offer solutions and guidance to recover from errors or mistakes.                     | The app provides helpful error messages and instructions on how to recover from errors, such as when a user tries to upload an unsupported file format, helping users troubleshoot issues or if the user uploads any information with inconsistencies to records on file.                                                                                                                                                                                       | No suggestions                                                | 1                        |
 | **10\. Help and documentation**<br>The app should provide clear and comprehensive help documentation, with contextual help and links to additional resources, to assist users in using the app effectively.                                                                    | The app offers a comprehensive help center with FAQs, tutorials, and support articles, as well as a customer support team that users can contact for assistance                                                                                                                                                                | No suggestions| 1                         |
-## App 2: FamilySearch
+### App 2: FamilySearch
 ![FamilySearch app](famsearchapp.jpeg)
 View the full site here: [FamilySearch](https://www.familysearch.org)
 #### Background Information
@@ -52,7 +52,7 @@ _Overall Evaluation_: Overall, the FamilySearch app has several strengths and li
 | **10\. Help and documentation**<br>The app should provide clear and comprehensive help documentation, with contextual help and links to additional resources, to assist users in using the app effectively.                                                                    | The app offers a comprehensive help center with FAQs, tutorials, and support articles, as well as a customer support team that users can contact for assistance                                                                                                                                                                | No suggestions| 1                         |
 
 
-### Assignment 2 : Pilot UT
+## Assignment 2 : Pilot UT
 
 #### Introduction
 
@@ -87,9 +87,9 @@ Reflecting on this UT, I was able to learn many ways in which the organization o
 In the future, UT for this app may be improved by having the participant come better prepared with a bit more information on their family history. Given some time to find more accurate information on their grandparents may better measure the usability of the app's features. Additionally, since this particular project centers around facilitating family connection, it may prove worthwhile to conduct UT with two family members as participants that might help each other with the input of family information in order to measure usability issues in the future and evaluate how it might connect the two participants as they work together.
 
 
-### Assignment 3 : User Research
+## Assignment 3 : User Research
 
-## Introductory Steps
+### Introductory Steps
 
 ### :white_check_mark: Step 1: Specify the Project Design Challenge
 
