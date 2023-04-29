@@ -167,18 +167,22 @@ I thoroughly enjoyed the contextual inquiry process. I feel that the reflection 
 
 ### The Purpose of Storytelling
 
-UX Storytelling reminds the researchers and designers that the experience must be user-centered. By think no longer websites based on heuristic principles and user interviews as data points, UX storytelling allows researcher to reflect on the underlying feeling and desires that users may have when completing the task and assuring that those are being satisfied by the results of the project. By creating personas, I will be able to think as the target users more generally and understand better how the current system in place does not meet their goals.
+UX Storytelling serves as a reminder to researchers and designers that the user should be at the center of the experience. Rather than relying solely on heuristic principles and data points from user interviews, UX storytelling encourages researchers to delve deeper into the emotions and desires that drive user behavior, ensuring that these needs are met by the project's outcomes. By developing personas, researchers can think more broadly about the target users and gain a better understanding of how the existing system fails to meet their objectives.
 
 ### Persona & Empathy Map
 
-#### Saige - the first gen web developer  :
+#### Saige - The First Gen Web Developer  :
 ![Saige's persona profile](Saige_P.png) 
+
+#### Saige's Empathy Map:
 
 ![Saige's empathy map](Saige_E.png)
 
 
-#### Evelyn - the retired grandma 
+#### Evelyn - The Retired Grandma: 
 ![Evelyn's persona profile](Evelyn_P.png)
+
+#### Evelyn's Empathy Map:
 
 ![Evelyn's empathy map](Evelyn_E.png)
 
