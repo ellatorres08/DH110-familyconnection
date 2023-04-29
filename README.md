@@ -178,7 +178,7 @@ UX Storytelling reminds the researchers and designers that the experience must b
 
 
 #### Evelyn - the retired grandma 
-![Evelyn's persona profile](Assignment 4/Evelyn_P.png)
+![Evelyn's persona profile](Evelyn_P.png)
 
 ![Evelyn's empathy map](Assignment 4/Evelyn Empathy Map.png)
 
