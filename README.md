@@ -172,15 +172,15 @@ UX Storytelling reminds the researchers and designers that the experience must b
 ### Persona & Empathy Map
 
 #### Saige - the first gen web developer  :
-![Saige's persona profile](Assignment 4/Saige Persona.png) 
+![Saige's persona profile](Saige_P.png) 
 
-![Saige's empathy map](Assignment 4/Saige Empathy Map.png)
+![Saige's empathy map](Saige_E.png)
 
 
 #### Evelyn - the retired grandma 
 ![Evelyn's persona profile](Evelyn_P.png)
 
-![Evelyn's empathy map](Assignment 4/Evelyn Empathy Map.png)
+![Evelyn's empathy map](Evelyn_E.png)
 
 ### Scenarios & Journey Map
 
@@ -193,7 +193,7 @@ How do they use the product
 	Saige uses this product to create their family tree and participate in family history activities with their family members in different time zones. They work on different prompts to record history and learn more about their country with their relatives either at the same time via video call or on their own time, periodically checking in and seeing what their grandparents, aunts, uncles, and cousins have contributed.
 
 
-![Saige's journey map](Assignment 4/Saige Journey Map.png)
+![Saige's journey map](Saige_J.png)
 
 
 
@@ -205,4 +205,4 @@ Why do they use the product?
 How do they use the product
 	Evelyn uses the app to construct her family tree and record her stories of how her and her husband met and fell in love. She uploads her family records on the app and any information on her family's ancestors she knows as an archive for her children and future generations of her family. She also uses the app as a way to connect with her grandkids, using the many family history activities as a means for quality time together. 
 
-![Evelyn's journey map](Assignment 4/Evelyn Journey Map.png)
+![Evelyn's journey map](Evelyn_J.png)
