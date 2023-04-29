@@ -172,7 +172,7 @@ UX Storytelling reminds the researchers and designers that the experience must b
 ### Persona & Empathy Map
 
 #### Saige - the first gen web developer  :
-![Saige's persona profile](./Saige Persona.png)
+![Saige's persona profile](Saige Persona.png) 
 
 ![Saige's empathy map](./Saige Empathy Map.png)
 
