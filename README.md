@@ -197,7 +197,7 @@ How do they use the product
 	Saige uses this product to create their family tree and participate in family history activities with their family members in different time zones. They work on different prompts to record history and learn more about their country with their relatives either at the same time via video call or on their own time, periodically checking in and seeing what their grandparents, aunts, uncles, and cousins have contributed.
 
 
-![Saige's journey map](Saige_J.png)
+![Saige's journey map](Saige_Jo.png)
 
 
 
