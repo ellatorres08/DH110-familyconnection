@@ -211,6 +211,6 @@ Saige uses this product to create their family tree and participate in family hi
 
 ##### How do they use the product
 
-	Evelyn uses the app to construct her family tree and record her stories of how her and her husband met and fell in love. She uploads her family records on the app and any information on her family's ancestors she knows as an archive for her children and future generations of her family. She also uses the app as a way to connect with her grandkids, using the many family history activities as a means for quality time together. 
+Evelyn uses the app to construct her family tree and record her stories of how her and her husband met and fell in love. She uploads her family records on the app and any information on her family's ancestors she knows as an archive for her children and future generations of her family. She also uses the app as a way to connect with her grandkids, using the many family history activities as a means for quality time together. 
 
 ![Evelyn's journey map](Evelyn_J.png)
