@@ -310,7 +310,9 @@ I asked the user to take five seconds to really look at the design and then aske
 
 The following are a few quotes from the test:
 
-
+* "Green is more likeable and homey It reminds me the most of older people which is what I’m looking into with this app".
+* "User friendly interface with the roundness. Not too rigid welcoming".
+* "The font is professional for a credible app but also user friendly and not too stiff".
 
 Summary: Overall, the user reported feeling "sense of security" from this interface and recognizes at first impression that it is a "legit government website". The user really appreciated how clean the entire interface looked. The user said it was very satisfying to see a government website without visual noises, and thought the ideas of making these features into overlay windows was a great choice of design that avoided overwhelming the user. The user suggested more improvements on the interactive prototype such that it can reflect the feedback of the system (e.g., different states of the button) and asked to consider whether a more coherent visual guideline was needed for the profile pictures of each benefit to fit the greater theme.
 
