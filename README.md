@@ -259,38 +259,59 @@ Overall, the wireframe was fairly straightforward to my user, but I did learn a 
 
 ### Project Description:
 
- The primary objective of this project is to enhance the overall user experience of genealogy technologies, with a specific emphasis on fostering family connections for each individual user. To achieve this goal, our focus lies in the development of a genealogy app that optimizes the user journey, ensuring a seamless and intuitive experience.
+ The primary objective of this project is to enhance the overall user experience of genealogy technologies, with a specific emphasis on fostering family connections for each individual user. To achieve this goal, our focus lies in the development of a genealogy app that optimizes the user journey, ensuring a seamless and intuitive experience. 
 
 In order to determine the most effective interface for our target users, we employ an interface design system that delves into various app appearances and their potential impact. This systematic approach allows us to thoroughly examine the influence of different elements such as shapes, layouts, colors, and typography on the user's impression and usability of the app.
 
-By exploring a range of design options, we aim to identify the visual and functional elements that resonate best with our users and align with their needs. This comprehensive evaluation of diverse interface possibilities enables us to refine and fine-tune the app's appearance, maximizing its usability and ultimately enhancing the users' ability to connect with their family history and heritage.
+By exploring a range of design options on a digitized wireframe of the app's family tree feature, we aim to identify the visual and functional elements that resonate best with our users and align with their needs. This comprehensive evaluation of diverse interface possibilities enables us to refine and fine-tune the app's appearance, maximizing its usability and ultimately enhancing the users' ability to connect with their family history and heritage.
  
 The digitized wireframe can be found [here](https://www.figma.com/file/foHAtFw2yVjXmyHeFCiJ6X/Week-5?type=design&node-id=5-2).
 
 ### Graphical User Interface Design Variations
 
+#### Layout
+
+![Layout](layout.png)
+
+For the layout, I followed a 6 row and 4 column layout for the phone screen format. It also has a row margine of 20px and a gutter of 40px.
+
 #### Typography
 
 ![Typography](typography.png)
+
+For the typography of the wireframe, I explored three distinct fonts and various font sizes that best fit with each section of the family tree interface. The first was David Libre, a more standard and familiar font. I then looked at Darumadrop One, which appeared more playful and fun but considerably childish. Lastly I explored Six Caps which was a more sharp and professional font.
 
 #### Shapes
 
 ![Shape](shape.png)
 
+To explore shape variation, I looked into three different corner radii for the family member profile rectangles/ buttons. The first was no radius and maintained the pointed rectangular shape. Then the following two explore radii of 10 and 20 px.
+
 #### Colors
 
 ![Colors](Colors.png)
 
-#### Layout
+Looking into color schemes, we start out with a light green motif and color coding for the maternal, paternal, and self family profiles. The second scheme presents a dark mode alternative to the light green scheme. And lastly, I played around with a scheme of different shades of brown and tan for a more neutral earth tone interface.
 
-![Layout](layout.png)
+### Accessibility
+
 
 ### Decision Making Process
 
 ![Final](Final.png)
 
+For the final design selection, I first went with David Libre for the typography. This font format also had varying font sizes for the title, family member subtitle, and dates subtitles. I decided on this style because it presented the best balanced of welcoming, professional, and readable for all users. Next I decided on the 20 px corner radius for the shape of my family tree profile buttons. I found that the more round I made this shape, the more inviting and user-friendly it appeared. Lastly, I chose the light green color scheme as it had the most natural contrast to the eyes and most friendly colors. 
+
 ### Impression Test
 
-### Accessibility
+To gather feedback from users on my design selection, I performed a 5 second impression test of the final design as well as showed my user the interface design system choices for additional information.
+
+I asked the user to take five seconds to really look at the design and then asked them to tell me what they remember from the image and what they felt about it
+
+The following are a few quotes from the test:
+
+
+
+Summary: Overall, the user reported feeling "sense of security" from this interface and recognizes at first impression that it is a "legit government website". The user really appreciated how clean the entire interface looked. The user said it was very satisfying to see a government website without visual noises, and thought the ideas of making these features into overlay windows was a great choice of design that avoided overwhelming the user. The user suggested more improvements on the interactive prototype such that it can reflect the feedback of the system (e.g., different states of the button) and asked to consider whether a more coherent visual guideline was needed for the profile pictures of each benefit to fit the greater theme.
 
 The Interface Design System can be found [here](https://www.figma.com/file/foHAtFw2yVjXmyHeFCiJ6X/Week-5?type=design&node-id=0-1).
