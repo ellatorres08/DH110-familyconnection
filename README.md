@@ -259,7 +259,7 @@ Overall, the wireframe was fairly straightforward to my user, but I did learn a 
 
 ### Project Description:
 
-The digitized wireframe can be found [here](https://www.figma.com/file/foHAtFw2yVjXmyHeFCiJ6X/Week-5?type=design&node-id=5%3A2&t=yoUw4yM94kK4niVk-1).
+The digitized wireframe can be found [here](https://www.figma.com/file/foHAtFw2yVjXmyHeFCiJ6X/Week-5?type=design&node-id=5-2).
 
 ### Graphical User Interface Design Variations
 
@@ -275,4 +275,4 @@ The digitized wireframe can be found [here](https://www.figma.com/file/foHAtFw2y
 
 ### Accessibility
 
-The Interface Design System can be found [here](https://www.figma.com/file/foHAtFw2yVjXmyHeFCiJ6X/Week-5?type=design&node-id=5%3A2&t=yoUw4yM94kK4niVk-1).
+The Interface Design System can be found [here](https://www.figma.com/file/foHAtFw2yVjXmyHeFCiJ6X/Week-5?type=design&node-id=0-1).
