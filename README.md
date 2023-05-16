@@ -265,9 +265,19 @@ The digitized wireframe can be found [here](https://www.figma.com/file/foHAtFw2y
 
 #### Typography
 
+![Typography](typography.png)
+
 #### Shapes
 
+![Shape](shape.png)
+
 #### Colors
+
+![Colors](Colors.png)
+
+#### Layout
+
+![Layout](layout.png)
 
 ### Decision Making Process
 
