@@ -279,7 +279,7 @@ For the layout, I followed a 6 row and 4 column layout for the phone screen form
 
 ![Typography](typography.png)
 
-For the typography of the wireframe, I explored three distinct fonts and various font sizes that best fit with each section of the family tree interface. The first was David Libre, a more standard and familiar font. I then looked at Darumadrop One, which appeared more playful and fun but considerably childish. Lastly I explored Six Caps which was a more sharp and professional font.
+For the typography of the wireframe, I explored three distinct fonts and various font sizes that best fit with each section of the family tree interface. The first was David Libre, a more standard and familiar font. I then looked at Darumadrop One, which appeared more playful and fun but considerably childish. Lastly I explored Six Caps which was a more sharp and professional font but presented some readability issues even after altering the letter spacing.
 
 #### Shapes
 
