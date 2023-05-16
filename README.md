@@ -281,6 +281,8 @@ The digitized wireframe can be found [here](https://www.figma.com/file/foHAtFw2y
 
 ### Decision Making Process
 
+![Final](Final.png)
+
 ### Impression Test
 
 ### Accessibility
