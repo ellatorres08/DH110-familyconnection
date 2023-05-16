@@ -273,7 +273,7 @@ The digitized wireframe can be found [here](https://www.figma.com/file/foHAtFw2y
 
 ![Layout](layout.png)
 
-For the layout, I followed a 6 row and 4 column layout for the phone screen format. It also has a row margine of 20px and a gutter of 40px.
+For the layout, I followed a 6 row and 4 column layout for the phone screen format. It also has a row margin of 20px and a gutter of 40px.
 
 #### Typography
 
@@ -285,7 +285,7 @@ For the typography of the wireframe, I explored three distinct fonts and various
 
 ![Shape](shape.png)
 
-To explore shape variation, I looked into three different corner radii for the family member profile rectangles/ buttons. The first was no radius and maintained the pointed rectangular shape. Then the following two explore radii of 10 and 20 px.
+To explore shape variation, I looked into three different corner radii for the family member profile rectangles/ buttons. The first was no radius and maintained the pointed rectangular shape. Then the following two explore radii of 10 and 20 px. The first variation presents a very traditional and professional feel but also a more rigid and sharp appearance. Then as the roundness increased we start to have a more welcoming shape to the eye but perhaps sacrifice some of that seriousness.
 
 #### Colors
 
@@ -294,13 +294,13 @@ To explore shape variation, I looked into three different corner radii for the f
 Looking into color schemes, we start out with a light green motif and color coding for the maternal, paternal, and self family profiles. The second scheme presents a dark mode alternative to the light green scheme. And lastly, I played around with a scheme of different shades of brown and tan for a more neutral earth tone interface.
 
 ### Accessibility
-In order to evaluate the accessibility of my assorted color scheme selections, I employed a WCAG 2.1 color contrast checker. As seen in the image above, each of the color schemes passed this test when comparing the foreground colors to the text colors.
+In order to evaluate the accessibility of my assorted color scheme selections, I employed a WCAG 2.1 color contrast checker. As seen in the image above, each of the color schemes passed this test when comparing the foreground colors to the text colors, with the light green color scheme having the greatest contrast ratio at 14.02.
 
 ### Decision Making Process
 
 ![Final](Final.png)
 
-For the final design selection, I first went with David Libre for the typography. This font format also had varying font sizes for the title, family member subtitle, and dates subtitles. I decided on this style because it presented the best balanced of welcoming, professional, and readable for all users. Next I decided on the 20 px corner radius for the shape of my family tree profile buttons. I found that the more round I made this shape, the more inviting and user-friendly it appeared. Lastly, I chose the light green color scheme as it had the most natural contrast to the eyes and most friendly colors. 
+For the final design selection, I first went with David Libre for the typography. This font format also had varying font sizes for the title, family member subtitle, and dates subtitles. I decided on this style because it presented the best balanced of welcoming, professional, and readable for all users. Next I decided on the 20 px corner radius for the shape of my family tree profile buttons. I found that the more round I made this shape, the more inviting and user-friendly it appeared. Lastly, I chose the light green color scheme as it had the most natural contrast to the eyes as seen in the contrast test and also contained the most friendly or welcoming colors. 
 
 ### Impression Test
 
@@ -310,10 +310,10 @@ I asked the user to take five seconds to really look at the design and then aske
 
 The following are a few quotes from the test:
 
-* "Green is more likeable and homey It reminds me the most of older people which is what I’m looking into with this app".
-* "User friendly interface with the roundness. Not too rigid welcoming".
+* "The green color choice is very likeable and homey. It also kind of reminds me of older people which is what I’m looking into with this app".
+* "The roundness of the family tree shapes appears very user friendly. It's not too rigid making it seem more welcoming".
 * "The font is professional for a credible app but also user friendly and not too stiff".
 
-Summary: Overall, the user reported feeling "sense of security" from this interface and recognizes at first impression that it is a "legit government website". The user really appreciated how clean the entire interface looked. The user said it was very satisfying to see a government website without visual noises, and thought the ideas of making these features into overlay windows was a great choice of design that avoided overwhelming the user. The user suggested more improvements on the interactive prototype such that it can reflect the feedback of the system (e.g., different states of the button) and asked to consider whether a more coherent visual guideline was needed for the profile pictures of each benefit to fit the greater theme.
+Summary: Overall, the user reported feeling very invited to play around with this section of the wireframe. They mentioned how user-friendly it all felt while still maintaing a good balance of professional and welcoming aspects as well. When showing them the other design options I had after conducting the impression test, they pointed out how the darumadrop font was too childish but the addition of the rounder shapes made it more family friendly without sacrificing professionalism. In fact, they even mentioned how the standard rectangles made the tree feel almost uncomfortable and much too rigid.
 
 The Interface Design System can be found [here](https://www.figma.com/file/foHAtFw2yVjXmyHeFCiJ6X/Week-5?type=design&node-id=0-1).
