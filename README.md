@@ -259,6 +259,12 @@ Overall, the wireframe was fairly straightforward to my user, but I did learn a 
 
 ### Project Description:
 
+ The primary objective of this project is to enhance the overall user experience of genealogy technologies, with a specific emphasis on fostering family connections for each individual user. To achieve this goal, our focus lies in the development of a genealogy app that optimizes the user journey, ensuring a seamless and intuitive experience.
+
+In order to determine the most effective interface for our target users, we employ an interface design system that delves into various app appearances and their potential impact. This systematic approach allows us to thoroughly examine the influence of different elements such as shapes, layouts, colors, and typography on the user's impression and usability of the app.
+
+By exploring a range of design options, we aim to identify the visual and functional elements that resonate best with our users and align with their needs. This comprehensive evaluation of diverse interface possibilities enables us to refine and fine-tune the app's appearance, maximizing its usability and ultimately enhancing the users' ability to connect with their family history and heritage.
+ 
 The digitized wireframe can be found [here](https://www.figma.com/file/foHAtFw2yVjXmyHeFCiJ6X/Week-5?type=design&node-id=5-2).
 
 ### Graphical User Interface Design Variations
