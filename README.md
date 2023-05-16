@@ -294,7 +294,7 @@ To explore shape variation, I looked into three different corner radii for the f
 Looking into color schemes, we start out with a light green motif and color coding for the maternal, paternal, and self family profiles. The second scheme presents a dark mode alternative to the light green scheme. And lastly, I played around with a scheme of different shades of brown and tan for a more neutral earth tone interface.
 
 ### Accessibility
-
+In order to evaluate the accessibility of my assorted color scheme selections, I employed a WCAG 2.1 color contrast checker. As seen in the image above, each of the color schemes passed this test when comparing the foreground colors to the text colors.
 
 ### Decision Making Process
 
