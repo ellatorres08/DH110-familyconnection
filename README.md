@@ -255,5 +255,24 @@ For the second task, the user was able to find the family history activity page,
 Overall, the wireframe was fairly straightforward to my user, but I did learn a few things that confused them as well as some things that could improve their user experience. When searching up family members/ records in the first task, they noted the potential usefulness of a back button in addition to the drop down menu button. Adding this to my design would allow users to go back and forth between connecting pages with higher efficiency. Then during the second task, they were able to find and complete the family history activity of mapping where in the world their family is located, but struggled to find the journal entry option in the family records section. Observing this, I would perhaps change the name of that section to “personal records” to clear up a bit of confusion on the purpose of that section. I would also add a subsection to that section on the menu with a drop down of the options so that the user can see all the available options on the app without having to go through each section/page.
 
 
+## Assignment 6 : Interface Design System
 
+### Project Description:
 
+The digitized wireframe can be found [here](https://www.figma.com/file/foHAtFw2yVjXmyHeFCiJ6X/Week-5?type=design&node-id=5%3A2&t=yoUw4yM94kK4niVk-1).
+
+### Graphical User Interface Design Variations
+
+#### Typography
+
+#### Shapes
+
+#### Colors
+
+### Decision Making Process
+
+### Impression Test
+
+### Accessibility
+
+The Interface Design System can be found [here](https://www.figma.com/file/foHAtFw2yVjXmyHeFCiJ6X/Week-5?type=design&node-id=5%3A2&t=yoUw4yM94kK4niVk-1).
