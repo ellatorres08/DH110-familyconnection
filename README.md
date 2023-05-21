@@ -339,11 +339,6 @@ The Interface Design System can be found [here](https://www.figma.com/file/foHAt
 
 ### Interactive Protoype
 
-<script src="[https://gist.github.com/nisrulz/11c0d63428b108f10c83.js](https://www.figma.com/proto/foHAtFw2yVjXmyHeFCiJ6X/Week-5?type=design&node-id=38-2766&scaling=min-zoom&page-id=5%3A2&starting-point-node-id=38%3A2766)"></script>
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FfoHAtFw2yVjXmyHeFCiJ6X%2FWeek-5%3Ftype%3Ddesign%26node-id%3D38-2766%26scaling%3Dmin-zoom%26page-id%3D5%253A2%26starting-point-node-id%3D38%253A2766" allowfullscreen></iframe>
-
-
 The interactive prototype can be found in figma [here](https://www.figma.com/proto/foHAtFw2yVjXmyHeFCiJ6X/Week-5?type=design&node-id=38-2766&scaling=min-zoom&page-id=5%3A2&starting-point-node-id=38%3A2766).
 
 ### Cognitive Walkthrough
