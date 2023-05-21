@@ -317,3 +317,34 @@ The following are a few quotes from the test:
 Summary: Overall, the user reported feeling very invited to play around with this section of the wireframe. They mentioned how user-friendly it all felt while still maintaing a good balance of professional and welcoming aspects as well. When showing them the other design options I had after conducting the impression test, they pointed out how the darumadrop font was too childish but the addition of the rounder shapes made it more family friendly without sacrificing professionalism. In fact, they even mentioned how the standard rectangles made the tree feel almost uncomfortable and much too rigid.
 
 The Interface Design System can be found [here](https://www.figma.com/file/foHAtFw2yVjXmyHeFCiJ6X/Week-5?type=design&node-id=0-1).
+
+
+## Assignment 7 : High Fidelity Prototype
+
+### Project Description:
+
+ The primary objective of this project is to enhance the overall user experience of genealogy technologies, with a specific emphasis on fostering family connections for each individual user. To achieve this goal, our focus lies in the development of a genealogy app that optimizes the user journey, ensuring a seamless and intuitive experience. 
+
+### Task List
+
+ The high-fidelity prototype for my genealogy app supports a number of tasks.
+1.
+2.
+3.
+4.
+
+### Wireflow / Graphic Design
+
+![Wireflow](prototypeflow.png)
+
+### Interactive Protoype
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FfoHAtFw2yVjXmyHeFCiJ6X%2FWeek-5%3Ftype%3Ddesign%26node-id%3D38-2766%26scaling%3Dmin-zoom%26page-id%3D5%253A2%26starting-point-node-id%3D38%253A2766" allowfullscreen></iframe>
+
+The interactive prototype can be found in figma [here](https://www.figma.com/proto/foHAtFw2yVjXmyHeFCiJ6X/Week-5?type=design&node-id=38-2766&scaling=min-zoom&page-id=5%3A2&starting-point-node-id=38%3A2766).
+
+### Cognitive Walkthrough
+
+### Feedback Alterations
+
+ 
