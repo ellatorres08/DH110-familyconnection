@@ -15,7 +15,7 @@ The digitized wireframe can be found [here](https://www.figma.com/file/foHAtFw2y
 
 #### Layout
 
-![Layout](layout.png)
+![Layout](layout(1).png)
 
 For the layout, I followed a 6 row and 4 column layout for the phone screen format. It also has a row margin of 20px and a gutter of 40px.
 
@@ -33,7 +33,7 @@ To explore shape variation, I looked into three different corner radii for the f
 
 #### Colors
 
-![Colors](Colors.png)
+![Colors](Colors(1).png)
 
 Looking into color schemes, we start out with a light green motif and color coding for the maternal, paternal, and self family profiles. The second scheme presents a dark mode alternative to the light green scheme. And lastly, I played around with a scheme of different shades of brown and tan for a more neutral earth tone interface.
 
