@@ -21,7 +21,7 @@ The Low-Fidelity Prototype is able to support the following tasks:
 
 ### Wireframes and Wireflows
 
-![Wireframe](wireframe.png)
+![Wireframe](wireframe1.png)
 
 ### Prototype Testing
 
