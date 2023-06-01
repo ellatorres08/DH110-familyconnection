@@ -15,7 +15,7 @@ The digitized wireframe can be found [here](https://www.figma.com/file/foHAtFw2y
 
 #### Layout
 
-![Layout](layout.png)
+![Layout](layout1.png)
 
 For the layout, I followed a 6 row and 4 column layout for the phone screen format. It also has a row margin of 20px and a gutter of 40px.
 
