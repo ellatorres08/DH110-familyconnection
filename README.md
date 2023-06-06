@@ -22,11 +22,9 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 ### Heuristic evaluation
 The first step of the project was to look at websites focused on the same subject as this project
 
-<p align="center">
-<img src="https://alixlb.github.io/DH150--Fitness-for-All/competitors.png" height="250px">
-</p>
 
-#### Find the full evaluation [here](assignment1/heuristicevaluation.md)
+
+#### Find the full evaluation [here]()
 
 ### Usability Testing
 
@@ -34,11 +32,9 @@ After conducting a heuristic evaluation on my potential competitors, I realized 
 
 Here is the usability test:
 
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1ygt46HoM13mTEJhy335HvhWVZN9AJc7N/preview" width="560" height="420"></iframe>
-</figure>
 
-#### Find the full usability testing [here](assignment2/usabilitytesting.md)
+
+#### Find the full usability testing [here]()
 
 This pilot usability testing aided me to better understand the point of view of my target audience as well as validate some of my previous assumptions I had made.
 *  I saw that the participant had no issues with finding a workout video and playing it but she did struggle with ***finding the FAQ and the favorite video folder.*** 
