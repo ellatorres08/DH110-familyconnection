@@ -50,24 +50,19 @@ I thoroughly enjoyed the contextual inquiry process. I feel that the reflection 
 
 ### UX storytelling [persona+scenario, assignment04]
 
-Summary and link to your assignment folder
-UX storytelling reminds the researchers and designers that the experience must be user-centered. By no longer thinking of websites through on heuristic principles and competitors analysis, UX storytelling allows researcher to reflect on the underlying feelings and desires that users may have when completing tasks and ensuring that those are being satisfied by the project. By creating personas, I will be able to think as the target users more generally and understand better how the current system in place does not meet their goals.
+<img src="https://github.com/ellatorres08/DH110-familyconnection/blob/main/assignment4/Saige_P.png" height="400px">
 
-During my research, I created 2 personas: Saige and Evelyn
+UX storytelling emphasizes the importance of a user-centered experience by considering the underlying feelings and desires of users. It moves away from relying solely on heuristic principles and competitor analysis. By creating personas, such as Saige, a first-generation web developer, and Evelyn, a retired grandma, researchers gain insight into how the current system fails to meet their goals. Saige utilizes the app to strengthen family connections and learn more about their Haitian heritage, participating in family history activities and communicating with relatives overseas. Meanwhile, Evelyn uses the app to record her family history for future generations, connect with her grandchildren, and spend quality time with her family through various interactive activities. These personas highlight the specific needs and motivations of users, ensuring that the project caters to their experiences and desires.
 
 ##### Find the full UX storytelling assignment [here](https://github.com/ellatorres08/DH110-familyconnection/tree/main/assignment4)
 
+
+
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 
-<img src="https://github.com/ellatorres08/DH110-familyconnection/blob/main/assignment5/wireframe1.png" height="400px">
+<img src="https://github.com/ellatorres08/DH110-familyconnection/blob/main/assignment6/layout1.png" height="400px">
 
-the development of a genealogy app that optimizes the user journey, ensuring a seamless and intuitive experience. 
-
-In order to determine the most effective interface for our target users, we employ an interface design system that delves into various app appearances and their potential impact. This systematic approach allows us to thoroughly examine the influence of different elements such as shapes, layouts, colors, and typography on the user's impression and usability of the app.
-
-By exploring a range of design options on a digitized wireframe of the app's family tree feature, we aim to identify the visual and functional elements that resonate best with our users and align with their needs. This comprehensive evaluation of diverse interface possibilities enables us to refine and fine-tune the app's appearance, maximizing its usability and ultimately enhancing the users' ability to connect with their family history and heritage.
-
-Overall, the user reported feeling very invited to play around with this section of the wireframe. They mentioned how user-friendly it all felt while still maintaing a good balance of professional and welcoming aspects as well. When showing them the other design options I had after conducting the impression test, they pointed out how the darumadrop font was too childish but the addition of the rounder shapes made it more family friendly without sacrificing professionalism. In fact, they even mentioned how the standard rectangles made the tree feel almost uncomfortable and much too rigid.
+In order to develop a genealogy app that prioritizes a seamless and intuitive user journey, we utilize an interface design system to explore various app appearances and assess their impact on users. By evaluating different elements like shapes, layouts, colors, and typography, we aim to create an interface that resonates with users and meets their needs. Through the use of digitized wireframes, we analyze the family tree feature to identify the most effective visual and functional elements. This process allows us to refine the app's appearance, enhancing usability and enabling users to connect more effectively with their family history and heritage. User feedback indicates that the wireframe section was inviting and user-friendly, with a balance of professionalism and warmth. The inclusion of rounder shapes and the avoidance of childish fonts was particularly appreciated, as it maintained a family-friendly atmosphere without sacrificing professionalism. The standard rectangles were seen as uncomfortable and rigid, prompting their exclusion from the design options.
 
 ##### Find the full wireframe assignment [here](https://github.com/ellatorres08/DH110-familyconnection/tree/main/assignment6)
 
@@ -75,25 +70,19 @@ Overall, the user reported feeling very invited to play around with this section
 
 ### Low-fidelity prototype (wireflow, assignment05)
 
-<img src="https://alixlb.github.io/DH150--Fitness-for-All/wireframe_revised.png" height="400px">
+<img src="https://github.com/ellatorres08/DH110-familyconnection/blob/main/assignment5/wireframe1.png" height="400px">
 
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
-a low fidelity paper prototype is tested to conduct early-stage design exploration, encourage collaboration and feedback, address usability concerns, and guide decision-making before advancing to more resource-intensive stages of development. This approach allows us to efficiently iterate on design concepts, gather valuable insights, and ensure a cost-effective and user-centered development process.
-
-the wireframe was fairly straightforward to my user, but I did learn a few things that confused them as well as some things that could improve their user experience. When searching up family members/ records in the first task, they noted the potential usefulness of a back button in addition to the drop down menu button. Adding this to my design would allow users to go back and forth between connecting pages with higher efficiency. Then during the second task, they were able to find and complete the family history activity of mapping where in the world their family is located, but struggled to find the journal entry option in the family records section. Observing this, I would perhaps change the name of that section to “personal records” to clear up a bit of confusion on the purpose of that section. I would also add a subsection to that section on the menu with a drop down of the options so that the user can see all the available options on the app without having to go through each section/page.
+This low fidelity paper prototype serves as a valuable tool for early-stage design exploration, collaboration, and gathering feedback to address usability concerns and guide decision-making. It allows for efficient iteration on design concepts and ensures a cost-effective and user-centered development process. During user testing, it was observed that adding a back button to the search feature would enhance the user experience by enabling quicker navigation between connecting pages. Additionally, renaming the "family records" section to "personal records" and including a dropdown menu with all available options would alleviate confusion and provide a clearer overview of the app's features. These insights gained from testing will inform design improvements for a more effective and user-friendly final product.
 
 ##### Find the full low-fidelity prototype assignment [here](https://github.com/ellatorres08/DH110-familyconnection/tree/main/assignment5)
 
 
 
-### High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+### High-fidelity prototype (functional/interactive prototype, assignment07)
 
-a high fidelity prototype for an app is to provide a realistic and interactive representation of the final product before the development phase. It allows designers, stakeholders, and users to experience the app's look, feel, and functionality in a more tangible way. The high fidelity prototype helps validate design choices, gather feedback, and uncover usability issues early in the design process, resulting in a more refined and user-centered final product.
+A high fidelity prototype for the familytree app serves as a realistic and interactive representation of the final product, enabling designers, stakeholders, and users to experience its look, feel, and functionality in a tangible way. By validating design choices, collecting feedback, and identifying usability issues early on, the high fidelity prototype ensures a more refined and user-centered end product. In the process of creating this high fidelity prototype using Figma, components from the graphic design element variation are applied in order to lay out screens with consistent visual elements, and then interactions are added for a realistic user experience. Interactive elements are linked to different screens or actions, allowing users to navigate and interact with the prototype. Feedback from stakeholders and users gathered through sharing the prototype helps in refining the design before moving to development.
 
-The process of creating a high fidelity prototype in Figma involves several key steps. Firstly, the designer imports design assets, such as icons, images, and UI components, into Figma. Using Figma's powerful design tools, they then lay out the app's screens, ensuring consistency in visual elements, typography, and spacing. Interactions and animations are added to simulate the app's behavior, creating a more engaging and realistic user experience. Interactive elements like buttons, menus, and forms are linked to different screens or actions, allowing users to navigate and interact with the prototype as they would with the actual app. Finally, the designer can share the high fidelity prototype with stakeholders and users for feedback, conducting user testing and gathering insights to refine and improve the design before moving to the development phase.
-
-##### Find the full high fidelity prototype assignment [here](https://github.com/ellatorres08/DH110-familyconnection/tree/main/assignment8)
+##### Find the full high fidelity prototype assignment [here](https://github.com/ellatorres08/DH110-familyconnection/tree/main/assignment7)
 
 ##### Interact with the high fidelity prototype [here](https://www.figma.com/proto/foHAtFw2yVjXmyHeFCiJ6X/Week-5?type=design&node-id=38-2766&scaling=min-zoom&page-id=5%3A2&starting-point-node-id=38%3A2766)
 
