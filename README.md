@@ -13,12 +13,13 @@ The issue at hand is the need to improve the user experience of genealogy techno
 
 
 ### Competitor analysis:
-
-
 #### Heuristic evaluation
-The first step of the project was to look at websites focused on the same subject as this project
 
+The project's initial phase involved conducting heuristic evaluations on websites related to the project's subject matter. The purpose of these evaluations was to gain insights into the strengths and limitations of the platforms. Two platforms, MyHeritage and FamilySearch, were assessed using 10 established usability heuristics. Components such as feedback to users, terminology usage, user control and flexibility, design patterns, error messages, visual cues, advanced features, information provision, and help documentation were examined. 
 
+The evaluations revealed that the MyHeritage app demonstrated strengths in providing clear and consistent feedback, using familiar terminology, allowing user control, following design patterns, delivering helpful error messages, employing visual cues and labels, offering advanced features, providing detailed information, and offering comprehensive help and documentation. However, limitations were also identified, including slow loading times for larger family trees or media files, inconsistent use of color and typography, a cluttered interface, confusing navigation, limited customization options, errors in data matching, and a lack of integration with external genealogy sources. Similarly, the evaluation of the FamilySearch app showcased strengths such as clear and consistent feedback, familiar terminology, user control, design pattern adherence, helpful error messages, visual cues and labels, advanced features, minimalist design, guidance on error recovery, and comprehensive help and documentation. However, limitations were observed, including slow loading times for larger family trees or media files, potentially confusing terminology for new users, limitations in undo/redo functionality, inconsistent use of color and typography, technical error messages, an overwhelming or cluttered interface, complex advanced features, a perceived simplistic design, and error messages lacking sufficient guidance.
+
+These heuristic evaluations provided valuable insights into the strengths and limitations of the evaluated platforms, serving as a foundation for the design and development of the project's own app. The project aims to address the identified limitations while leveraging the strengths of the evaluated platforms to ensure a user-centered and refined final product.
 
 ##### Find the full evaluation [here](https://github.com/ellatorres08/DH110-familyconnection/tree/main/assignment1)
 
@@ -26,21 +27,14 @@ The first step of the project was to look at websites focused on the same subjec
 
 #### Usability Testing
 
-After conducting a heuristic evaluation on my potential competitors, I realized multiple principles were being violated and I decided to look further into the YMCA 360 website and see how my target audience reacts when using it to perform simple tasks. I started by a pilot Usability Test and focused on 3 main tasks: playing a workout video, finding the FAQ, and using the favoring video function. My goal with this experiment was to see if my usability test material was effective and in term, better understand the usability experience of target users and their pain points.
-
-Here is the usability test:
+UT, which stands for User Testing, is a method used to evaluate a product or service by directly observing and gathering feedback from users. Its purpose is to identify usability issues and design flaws to improve the app from a user's perspective. In this particular UT, a pilot test is conducted to test the app's setting and materials, including the app itself and a test survey with tasks. The test takes place in the participant's home using a portable minimalistic lab, typically consisting of a laptop or smartphone and a video calling app with screen sharing capabilities. The process involves defining the objectives and goals of the test, aligning them with the findings of the heuristic evaluation conducted in assignment 1. The heuristic evaluation identified potential problems in various aspects, such as system status visibility, match between the app and the real world, user control and freedom, error prevention, recognition rather than recall, flexibility and efficiency of use, and aesthetic and minimalist design. The UT process includes the participant following a questionnaire that assesses their experience with the app, initial impressions, completion of tasks, and overall sentiments. Reflection on the UT revealed areas of confusion and user-friendliness in the app's organization, with issues related to locating information, search functions, advanced features, and error prevention. Suggestions for future UT improvements include better participant preparation with more family history information and involving two family members as participants to assess usability and connection facilitation.
 
 ##### Find the full usability testing [here](https://github.com/ellatorres08/DH110-familyconnection/tree/main/assignment2)
 
-This pilot usability testing aided me to better understand the point of view of my target audience as well as validate some of my previous assumptions I had made.
-*  I saw that the participant had no issues with finding a workout video and playing it but she did struggle with ***finding the FAQ and the favorite video folder.*** 
-* The participant did find the website overall ***easy to use and didn’t require technical support*** to make it work but thought it ***could be better integrated.***
-
-From this competitor analysis, I realized **the importance of creating not only an efficient user experience to access the workout videos but also a great experience for other important functions of the website** such as finding the FAQ, login in, favoring a video etc. However, I was left wondering how my users would interact with the product during a typical workout.
 
 
+### User research
 
-### User research [contextual inquiry, assignment03]:
 After conducting UT, I decide to expand 
 I thoroughly enjoyed the contextual inquiry process. I feel that the reflection questions paired along with the activities allowed the user to be very candid about each feature of the app and accurately contemplate its impact on the family tree building experience. Observing my interviewee’s reactions and prompting them to think about family connection through genealogy greatly helped reveal many of the positive aspects and limitations of the FamilySearch app. Since this project focuses on technology that facilitates family connection, the interview helped enlighten me on which features of the app really promote working together with your family members. The user even expressed excitement on sharing information and completing the offered family history activities with their relatives. On the other hand, my interviewee expressed some disappointment in other sections, such as the limitations when searching for records from family members with common names or ones that don’t come from the United States. Additionally, the information provided about their culture after building the family tree and adding location detail, was noted as very shallow. I can see how this technology could benefit someone outside of their culture and with little knowledge of their family history. However, the knowledge provided seemingly only scratches the surface for what my user hoped to find about their ancestors, their history and their country. In the future, my user research may be aided by interviewing a user with more family history in countries that the apps database has a larger volume of records in, as well as someone with ancestors who come from various backgrounds and countries, in order to diversify results and generated cultural information.
 
@@ -48,7 +42,7 @@ I thoroughly enjoyed the contextual inquiry process. I feel that the reflection 
 
 
 
-### UX storytelling [persona+scenario, assignment04]
+### UX storytelling 
 
 <img src="https://github.com/ellatorres08/DH110-familyconnection/blob/main/assignment4/Saige_P.png" height="400px">
 
@@ -58,7 +52,7 @@ UX storytelling emphasizes the importance of a user-centered experience by consi
 
 
 
-### Wireframe and graphic design element variation [assignment06 + part of 07]
+### Wireframe and graphic design element variation 
 
 <img src="https://github.com/ellatorres08/DH110-familyconnection/blob/main/assignment6/layout1.png" height="400px">
 
@@ -68,7 +62,7 @@ In order to develop a genealogy app that prioritizes a seamless and intuitive us
 
 
 
-### Low-fidelity prototype (wireflow, assignment05)
+### Low-fidelity prototype 
 
 <img src="https://github.com/ellatorres08/DH110-familyconnection/blob/main/assignment5/wireframe1.png" height="400px">
 
@@ -78,7 +72,7 @@ This low fidelity paper prototype serves as a valuable tool for early-stage desi
 
 
 
-### High-fidelity prototype (functional/interactive prototype, assignment07)
+### High-fidelity prototype 
 
 A high fidelity prototype for the familytree app serves as a realistic and interactive representation of the final product, enabling designers, stakeholders, and users to experience its look, feel, and functionality in a tangible way. By validating design choices, collecting feedback, and identifying usability issues early on, the high fidelity prototype ensures a more refined and user-centered end product. In the process of creating this high fidelity prototype using Figma, components from the graphic design element variation are applied in order to lay out screens with consistent visual elements, and then interactions are added for a realistic user experience. Interactive elements are linked to different screens or actions, allowing users to navigate and interact with the prototype. Feedback from stakeholders and users gathered through sharing the prototype helps in refining the design before moving to development.
 
@@ -88,13 +82,15 @@ A high fidelity prototype for the familytree app serves as a realistic and inter
 
 
 
-### Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
-
-
 
 ### Pitch video 
 
 
 
-### Conclusion: what did you learn throughout the process?
+### Conclusion
+
+Throughout this project, I gained valuable insights and knowledge about user experience (UX) and interface design. The opportunity to work with Figma allowed me to develop new skills and proficiency in creating visually appealing and functional prototypes. From low fidelity wireframes to high fidelity prototypes, I learned how to effectively translate design concepts into tangible representations of the final product. The process of user testing and evaluation taught me the importance of gathering feedback and incorporating user perspectives to improve the overall usability and user-centered design of the app.
+
+One of the most exciting aspects of this project was the opportunity to engage in UX storytelling. Through this process, I was able to explore the potential capabilities of the app and think creatively about how it could provide a seamless and enjoyable user experience. By envisioning user journeys and scenarios, I expanded my mind and uncovered new possibilities for enhancing the app's features and functionalities. UX storytelling enabled me to bridge the gap between design and user needs, ensuring that the app not only looks visually appealing but also serves its purpose effectively.
+
+Overall, this project has been a valuable learning experience for me. I have deepened my understanding of UX principles, interface design, and the importance of user testing and evaluation in the design process. By developing both low and high fidelity prototypes and engaging in UX storytelling, I have not only honed my design skills but also broadened my perspective on what is achievable in creating a user-centered and engaging app. I look forward to applying these newfound skills and knowledge in future design endeavors, continuously striving to create exceptional user experiences.
