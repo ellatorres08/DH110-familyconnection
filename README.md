@@ -54,7 +54,7 @@ UX storytelling emphasizes the importance of a user-centered experience by consi
 
 ### Wireframe and graphic design element variation 
 
-![layout](layout1.png)
+![layout](layout.png)
 
 In order to develop a genealogy app that prioritizes a seamless and intuitive user journey, we utilize an interface design system to explore various app appearances and assess their impact on users. By evaluating different elements like shapes, layouts, colors, and typography, we aim to create an interface that resonates with users and meets their needs. Through the use of digitized wireframes, we analyze the family tree feature to identify the most effective visual and functional elements. This process allows us to refine the app's appearance, enhancing usability and enabling users to connect more effectively with their family history and heritage. User feedback indicates that the wireframe section was inviting and user-friendly, with a balance of professionalism and warmth. The inclusion of rounder shapes and the avoidance of childish fonts was particularly appreciated, as it maintained a family-friendly atmosphere without sacrificing professionalism. The standard rectangles were seen as uncomfortable and rigid, prompting their exclusion from the design options.
 
@@ -64,7 +64,7 @@ In order to develop a genealogy app that prioritizes a seamless and intuitive us
 
 ### Low-fidelity prototype 
 
-![lfp](wireframe1.png)
+![lfp](wireframe.png)
 
 This low fidelity paper prototype serves as a valuable tool for early-stage design exploration, collaboration, and gathering feedback to address usability concerns and guide decision-making. It allows for efficient iteration on design concepts and ensures a cost-effective and user-centered development process. During user testing, it was observed that adding a back button to the search feature would enhance the user experience by enabling quicker navigation between connecting pages. Additionally, renaming the "family records" section to "personal records" and including a dropdown menu with all available options would alleviate confusion and provide a clearer overview of the app's features. These insights gained from testing will inform design improvements for a more effective and user-friendly final product.
 
