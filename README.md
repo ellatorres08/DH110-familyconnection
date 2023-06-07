@@ -1,5 +1,3 @@
-theme: time machine
-
 # Facilitating Family Connections Through Genealogy Technology
 ### *Ella Torres Digital Humanities 1110, Spring 2023*
 
