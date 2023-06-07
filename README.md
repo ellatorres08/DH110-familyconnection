@@ -1,5 +1,5 @@
 # Facilitating Family Connections Through Genealogy Technology
-### *Ella Torres Digital Humanities 1110, Spring 2023*
+### *Ella Torres Digital Humanities 110, Spring 2023*
 
 ![tree](tree.png)
 
